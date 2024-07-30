@@ -16,7 +16,7 @@ You can install these libraries using pip:
 pip install pandas selenium openpyxl
 ```
 
-Additionally, you will need to download the appropriate WebDriver for your browser. For example, if you are using Google Chrome, download the ChromeDriver from here. Make sure the WebDriver is in your system's PATH or specify its location in the script.
+Additionally, you will need to download the appropriate WebDriver for your browser. For example, if you are using Google Chrome, download the ChromeDriver from [here](https://googlechromelabs.github.io/chrome-for-testing/#stable) . Make sure the WebDriver is in your system's PATH or specify its location in the script.
 
 Script Overview
 
